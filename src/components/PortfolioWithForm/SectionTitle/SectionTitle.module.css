@@ -1,0 +1,28 @@
+.root {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 4px;
+}
+.text {
+  color: #25282b;
+  font-size: 48px;
+  line-height: 72px;
+  font-weight: bold;
+  font-family: Playfair Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle19 {
+  width: 100px;
+  height: 4px;
+  border-radius: 2px;
+  background-color: #fdc435;
+}

@@ -1,0 +1,194 @@
+.frame3350.frame3350 {
+  top: 30.5344%;
+  bottom: 30.3435%;
+}
+.text {
+  color: #828282;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame33502.frame33502 {
+  top: 30.5344%;
+  bottom: 30.3435%;
+}
+.text2 {
+  color: #828282;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  align-items: flex-start;
+  background-color: #f9faff;
+  overflow: hidden;
+}
+.image {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 720px;
+  height: 629px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.yellowBg {
+  position: absolute;
+  right: -57px;
+  bottom: 0;
+  width: 777px;
+  height: 877px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.pexelsArtemBeliaikin1832323Rem {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 720px;
+  height: 629px;
+  background-image:/* webpackIgnore: true */ url('assets/pexelsArtemBeliaikin1832323Rem.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/image.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/image.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 1.4210854715202004e-14px -248px;
+  mask-position: 1.4210854715202004e-14px -248px;
+  -webkit-mask-size: 777px 877px;
+  mask-size: 777px 877px;
+}
+.projects {
+  position: absolute;
+  left: calc(50% - 2px);
+  top: 773px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 80px;
+  transform: translateX(-50%);
+}
+.project1 {
+  width: 992px;
+  height: 524px;
+  align-items: flex-start;
+  border-radius: 24px;
+  overflow: hidden;
+}
+.pexelsEllyFairytale38232071 {
+  width: 496px;
+  height: 526px;
+  background-image:/* webpackIgnore: true */ url('assets/pexelsEllyFairytale38232071.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.project2 {
+  width: min-content;
+  height: 524px;
+  align-items: flex-start;
+  border-radius: 24px;
+  overflow: hidden;
+}
+.rectangle7 {
+  width: 496px;
+  height: 524px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle7.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.project3 {
+  width: min-content;
+  height: 524px;
+  align-items: flex-start;
+  border-radius: 24px;
+  overflow: hidden;
+}
+.rectangle72 {
+  width: 496px;
+  height: 524px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle72.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.intro {
+  position: absolute;
+  left: 120px;
+  top: 111px;
+  width: 486px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  overflow: hidden;
+}
+.uIUXDesigner {
+  color: #fdc435;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.content {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+}
+.title {
+  color: #333;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: bold;
+  font-family: Playfair Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 486px;
+  height: min-content;
+  flex-direction: column;
+}
+.subheadline {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.text3 {
+  color: #828282;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 486px;
+  height: min-content;
+  flex-direction: column;
+}
+.buttons {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 12px;
+}

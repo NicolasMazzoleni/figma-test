@@ -1,0 +1,104 @@
+.label {
+  color: #25282b;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 2.2727%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.label2 {
+  color: #25282b;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 9.0909%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.label3 {
+  color: #25282b;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: -45.4545%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.text {
+  color: #25282b;
+  font-size: 18px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.sectionTitle.sectionTitle {
+  position: absolute;
+  left: 618px;
+  top: 0;
+}
+.root {
+  position: absolute;
+  left: 0;
+  top: 2809px;
+  width: 1440px;
+  height: 1004px;
+  align-items: flex-start;
+}
+.vector {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 65.7371%;
+  bottom: 0;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.frame3352 {
+  position: absolute;
+  left: 520px;
+  top: 160.5px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 56px;
+}
+.form {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: flex-end;
+  gap: 24px;
+}

@@ -1,0 +1,22 @@
+.root {
+  position: relative;
+  width: 44px;
+  height: 22px;
+  align-items: flex-start;
+}
+.label {
+  color: #25282b;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 9.0909%;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
